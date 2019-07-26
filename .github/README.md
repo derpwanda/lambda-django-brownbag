@@ -25,3 +25,4 @@ If you're basically anyone else, this code is for education purposes and meant t
 1. [The complete guide to Django REST Framework and Vue JS](https://www.udemy.com/share/1014GsAkcSdlZSRQ==/?xref=E0AfeFlaRXwLB1wuMREcKFQXdDIGAwcpEw==)
 2. [Build a Backend REST API with Python & Django - Beginner](https://www.udemy.com/share/1004R0AkcSdlZSRQ==/?xref=E0AfeFlaRXwLB1wuMREcKFQXdDIGAwcpEw==)
 3. [Build a Backend REST API with Python & DJango - Advanced](https://www.udemy.com/share/100JLWAkcSdlZSRQ==/?xref=E0AfeFlaRXwLB1wuMREcKFQXdDIGAwcpEw==)
+
